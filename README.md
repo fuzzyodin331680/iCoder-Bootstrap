@@ -1,6 +1,6 @@
 This is a Blog website.
 <br>
-Author - Piyush Kumawat.
+Author - Piyush Kumawat.(MRSC)
 <br>
 The website was developed using HTML, CSS, Bootstrap.
 <br>
